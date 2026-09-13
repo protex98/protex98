@@ -248,11 +248,11 @@ $ ls
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="www.linkedin.com/in/lucas-dionizio">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
-<a href="https://www.instagram.com/">
+<a href="[https://www.instagram.com/](https://www.instagram.com/dionizio_999_official?stkn=ZXQzejhxZHJjN3pp)">
 <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
 </a>
 
